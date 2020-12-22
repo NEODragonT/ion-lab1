@@ -1,0 +1,7 @@
+{
+  "name": "ion-Warakorn",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
